@@ -1,3 +1,3 @@
 # Proyecto Plantillas
 
-Propyecto de Paco e Ibán
+Proyecto de Paco e Ibán
